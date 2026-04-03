@@ -1,0 +1,14 @@
+.flow-auto { overflow: auto; }
+.flow-hidden { overflow: hidden; }
+.flow-scroll { overflow: scroll; }
+.flow-visible { overflow: visible; }
+
+.flowx-auto { overflow-x: auto; }
+.flowx-hidden { overflow-x: hidden; }
+.flowx-scroll { overflow-x: scroll; }
+.flowx-visible { overflow-x: visible; }
+
+.flowy-auto { overflow-y: auto; }
+.flowy-hidden { overflow-y: hidden; }
+.flowy-scroll { overflow-y: scroll; }
+.flowy-visible { overflow-y: visible; }

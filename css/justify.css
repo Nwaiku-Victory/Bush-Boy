@@ -1,0 +1,18 @@
+.jc-base { justify-content: baseline; }
+.jc-center { justify-content: center; }
+.jc-end { justify-content: end; }
+.jc-f-base { justify-content: first baseline; }
+.jc-f-end { justify-content: flex-end; }
+.jc-f-start { justify-content: flex-start; }
+.jc-l-base { justify-content: last baseline; }
+.jc-left { justify-content: left; }
+.jc-normal { justify-content: normal; }
+.jc-right { justify-content: right; }
+.jc-safe { justify-content: safe; }
+.jc-sp-ar { justify-content: space-around;}
+.jc-sp-bt { justify-content: space-between; }
+.jc-sp-ev { justify-content: space-evenly; }
+.jc-start { justify-content: start; }
+.jc-strech { justify-content: stretch; }
+.jc-unsafe { justify-content: unsafe; }
+.jc-inherit { justify-content: inherit; }

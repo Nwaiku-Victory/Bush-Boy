@@ -1,0 +1,21 @@
+@import url(./css/fancy.css);
+
+body{
+    width: 100vw;
+    height: 100vh;
+    scroll-behavior: smooth;
+}
+.hero{
+    background-image: url(./farm/farm1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.auth{
+    background-image: url(./farm/farm3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.hover-scale:hover{
+    scale: 1.1;
+    transition: all 0.5s ease;
+}

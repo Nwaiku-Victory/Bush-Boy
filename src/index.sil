@@ -1,0 +1,20 @@
+<div class="w-full h-full ff-arial auth">
+    <div class="w-full h-full faded-70 flex jc-center ai-center">
+        <div class="w-500-90 p-40px borr-10px blur bor-1px bor-grey shad-0-0-5-black flex flex-col gap-20">
+            <div class="w-full flex jc-left ai-center gap-10 p-10px cl-white"> <img src="farm/IMG-20260325-WA0036.jpg" alt="logo" class="w-50px h-50px borr-40px"> <h2>IFCAF FARMS</h2> </div>
+            <input id="pass" type="password" placeholder="Password" class="w-full p-15px bor-none bright-10 cl-white placeholder-white">
+            <button id="signin" class="w-full p-15px fnt-w-bolder fnt-s-18px borr-20px">Sign In</button>
+        </div>
+    </div>
+</div>
+
+@script{
+    let pass = document.getElementById("pass");
+    let signin = document.getElementById("signin");
+
+    signin.onclick = () => {
+        if(pass.value !== "" && pass.value === "ifcaf==%%&&farms12345bushboy") {
+            window.location.hrefPage="home";
+        }
+    }
+}script

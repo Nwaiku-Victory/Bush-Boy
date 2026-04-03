@@ -1,0 +1,45 @@
+@import url(./align.css);
+@import url(./animate.css);
+@import url(./background.css);
+@import url(./border.css);
+@import url(./box.css);
+@import url(./card.css);
+@import url(./color.css);
+@import url(./cursor.css);
+@import url(./desktop.css);
+@import url(./display.css);
+@import url(./extend.css);
+@import url(./flex-basis.css);
+@import url(./flex.css);
+@import url(./font.css);
+@import url(./gap.css);
+@import url(./grid.css);
+@import url(./height.css);
+@import url(./hover.css);
+@import url(./justify.css);
+@import url(./list.css);
+@import url(./margin.css);
+@import url(./object.css);
+@import url(./outline.css);
+@import url(./overflow.css);
+@import url(./padding.css);
+@import url(./placeholder.css);
+@import url(./portrait.css);
+@import url(./position.css);
+@import url(./rotate.css);
+@import url(./scrollbar.css);
+@import url(./text.css);
+@import url(./transition.css);
+@import url(./viewport.css);
+@import url(./width.css);
+@import url(./z-index.css);
+
+*{
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+}
+body{
+       width: 100vw;
+       height: 100vh;
+}

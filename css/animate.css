@@ -1,0 +1,5 @@
+.bounce{ animation: bounce 1s infinite alternate; }
+@keyframes bounce {
+       form{ transform: translateY(100%); }
+       to{ transform: translateY(-100%); }
+}

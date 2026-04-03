@@ -1,0 +1,10 @@
+.nowrap { flex-wrap: nowrap; }
+.wrap { flex-wrap: wrap; }
+.wrap-reverse { flex-wrap: wrap-reverse; }
+
+.flex-auto { flex: auto; }
+.flex-content { flex: content; }
+.flex-none { flex: none; }
+.flex-1 { flex: 1; }
+.flex-row { flex-direction: row; }
+.flex-col { flex-direction: column; }

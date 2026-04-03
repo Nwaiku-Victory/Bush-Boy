@@ -1,0 +1,216 @@
+.bg-none { background: none; }
+
+.bg-aliceblue { background: aliceblue }
+.bg-antiquewhite { background: antiquewhite }
+.bg-aqua { background: aqua }
+.bg-aquamarine { background: aquamarine }
+.bg-azure { background: azure }
+.bg-beige { background: beige }
+.bg-bisque { background: bisque }
+.bg-black { background: black }
+.bg-blanchedalmond { background: blanchedalmond }
+.bg-blue { background: blue }
+.bg-blueviolet { background: blueviolet }
+.bg-brown { background: brown }
+.bg-burlywood { background: burlywood }
+.bg-cadetblue { background: cadetblue }
+.bg-chartreuse { background: chartreuse }
+.bg-chocolate { background: chocolate }
+.bg-coral { background: coral }
+.bg-cornflowerblue { background: cornflowerblue }
+.bg-cornsilk { background: cornsilk }
+.bg-crimson { background: crimson }
+.bg-cyan { background: cyan }
+.bg-darkblue { background: darkblue }
+.bg-darkcyan { background: darkcyan }
+.bg-darkgoldenrod { background: darkgoldenrod }
+.bg-darkgray { background: darkgray }
+.bg-darkgreen { background: darkgreen }
+.bg-darkgrey { background: darkgrey }
+.bg-darkkhaki { background: darkkhaki }
+.bg-darkmagenta { background: darkmagenta }
+.bg-darkolivegreen { background: darkolivegreen }
+.bg-darkorange { background: darkorange }
+.bg-darkorchid { background: darkorchid }
+.bg-darkred { background: darkred }
+.bg-darksalmon { background: darksalmon }
+.bg-darkseagreen { background: darkseagreen }
+.bg-darkslateblue { background: darkslateblue }
+.bg-darkslategray { background: darkslategray }
+.bg-darkslategrey { background: darkslategrey }
+.bg-darkturquoise { background: darkturquoise }
+.bg-darkviolet { background: darkviolet }
+.bg-deeppink { background: deeppink }
+.bg-deepskyblue { background: deepskyblue }
+.bg-dimgray { background: dimgray }
+.bg-dimgrey { background: dimgrey }
+.bg-dodgerblue { background: dodgerblue }
+.bg-firebrick { background: firebrick }
+.bg-floralwhite { background: floralwhite }
+.bg-forestgreen { background: forestgreen }
+.bg-fuchsia { background: fuchsia }
+.bg-gainsboro { background: gainsboro }
+.bg-ghostwhite { background: ghostwhite }
+.bg-gold { background: gold }
+.bg-goldenrod { background: goldenrod }
+.bg-gray { background: gray }
+.bg-green { background: green }
+.bg-greenyellow { background: greenyellow }
+.bg-grey { background: grey }
+.bg-honeydew { background: honeydew }
+.bg-hotpink { background: hotpink }
+.bg-indianred { background: indianred }
+.bg-indigo { background: indigo }
+.bg-ivory { background: ivory }
+.bg-khaki { background: khaki }
+.bg-lavender { background: lavender }
+.bg-lavenderblush { background: lavenderblush }
+.bg-lawngreen { background: lawngreen }
+.bg-lemonchiffon { background: lemonchiffon }
+.bg-lightblue { background: lightblue }
+.bg-lightcoral { background: lightcoral }
+.bg-lightcyan { background: lightcyan }
+.bg-lightgoldenrodyellow { background: lightgoldenrodyellow }
+.bg-lightgray { background: lightgray }
+.bg-lightgreen { background: lightgreen }
+.bg-lightgrey { background: lightgrey }
+.bg-lightpink { background: lightpink }
+.bg-lightsalmon { background: lightsalmon }
+.bg-lightseagreen { background: lightseagreen }
+.bg-lightskyblue { background: lightskyblue }
+.bg-lightslategray { background: lightslategray }
+.bg-lightslategrey { background: lightslategrey }
+.bg-lightsteelblue { background: lightsteelblue }
+.bg-lightyellow { background: lightyellow }
+.bg-lime { background: lime }
+.bg-limegreen { background: limegreen }
+.bg-linen { background: linen }
+.bg-magenta { background: magenta }
+.bg-maroon { background: maroon }
+.bg-mediumaquamarine { background: mediumaquamarine }
+.bg-mediumblue { background: mediumblue }
+.bg-mediumorchid { background: mediumorchid }
+.bg-mediumpurple { background: mediumpurple }
+.bg-mediumseagreen { background: mediumseagreen }
+.bg-mediumslateblue { background: mediumslateblue }
+.bg-mediumspringgreen { background: mediumspringgreen }
+.bg-mediumturquoise { background: mediumturquoise }
+.bg-mediumvioletred { background: mediumvioletred }
+.bg-midnightblue { background: midnightblue }
+.bg-mintcream { background: mintcream }
+.bg-mistyrose { background: mistyrose }
+.bg-moccasin { background: moccasin }
+.bg-navajowhite { background: navajowhite }
+.bg-navy { background: navy }
+.bg-oldlace { background: oldlace }
+.bg-olive { background: olive }
+.bg-olivedrab { background: olivedrab }
+.bg-orange { background: orange }
+.bg-orangered { background: orangered; }
+.bg-orchid { background: orchid }
+.bg-palegoldenrod { background: palegoldenrod }
+.bg-palegreen { background: palegreen }
+.bg-paleturquoise { background: paleturquoise }
+.bg-palevioletred { background: palevioletred }
+.bg-papayawhip { background: papayawhip }
+.bg-peachpuff { background: peachpuff }
+.bg-peru { background: peru }
+.bg-pink { background: pink }
+.bg-plum { background: plum }
+.bg-powderblue { background: powderblue }
+.bg-purple { background: purple }
+.bg-rebeccapurple { background: rebeccapurple }
+.bg-red { background: red }
+.bg-rosybrown { background: rosybrown }
+.bg-royalblue { background: royalblue }
+.bg-saddlebrown { background: saddlebrown }
+.bg-salmon { background: salmon }
+.bg-sandybrown { background: sandybrown }
+.bg-seagreen { background: seagreen }
+.bg-seashell { background: seashell }
+.bg-sienna { background: sienna }
+.bg-silver { background: silver }
+.bg-skyblue { background: skyblue }
+.bg-slateblue { background: slateblue }
+.bg-slategray { background: slategray }
+.bg-slategrey { background: slategrey }
+.bg-snow { background: snow }
+.bg-springgreen { background: springgreen }
+.bg-steelblue { background: steelblue }
+.bg-tan { background: tan }
+.bg-teal { background: teal }
+.bg-thistle { background: thistle }
+.bg-tomato { background: tomato }
+.bg-transparent { background: transparent }
+.bg-turquoise { background: turquoise }
+.bg-violet { background: violet }
+.bg-wheat { background: wheat }
+.bg-white { background: white }
+.bg-whitesmoke { background: whitesmoke }
+.bg-yellow { background: yellow }
+.bg-yellowgreen { background: yellowgreen }
+.bg-lowbright{ background: rgb(17, 14, 14); }
+
+.bg-clip-text { background-clip: text; }
+
+.bg-deepblue { background: #010230; }
+.faded-1 { background: rgba(0, 0, 0.01); }
+.faded-2 { background: rgba(0, 0, 0, 0.02); }
+.faded-3 { background: rgba(0, 0, 0, 0.03); }
+.faded-4 { background: rgba(0, 0, 0, 0.04); }
+.faded-5 { background: rgba(0, 0, 0, 0.05); }
+.faded-6 { background: rgba(0, 0, 0, 0.06); }
+.faded-7 { background: rgba(0, 0, 0,0.07); }
+.faded-8 { background: rgba(0, 0, 0,0.08); }
+.faded-9 { background: rgba(0, 0, 0,0.09); }
+.faded-10 { background: rgba(0, 0, 0, 0.10); }
+.faded-20 { background: rgba(0, 0, 0, 0.20); }
+.faded-30 { background: rgba(0, 0, 0, 0.30); }
+.faded-40 { background: rgba(0, 0, 0, 0.40); }
+.faded-50 { background: rgba(0, 0, 0, 0.50); }
+.faded-60 { background: rgba(0, 0, 0, 0.60); }
+.faded-70 { background: rgba(0, 0, 0, 0.70); }
+.faded-80 { background: rgba(0, 0, 0, 0.80); }
+.faded-90 { background: rgba(0, 0, 0, 0.90); }
+.faded-100 { background: rgba(0, 0, 0, 0.100); }
+
+.bright-1 { background: rgba(255, 255, 255, 0.01); }
+.bright-2 { background: rgba(255, 255, 255, 0.02); }
+.bright-3 { background: rgba(255, 255, 255, 0.03); }
+.bright-4 { background: rgba(255, 255, 255, 0.04); }
+.bright-5 { background: rgba(255, 255, 255, 0.05); }
+.bright-6 { background: rgba(255, 255, 255, 0.06); }
+.bright-7 { background: rgba(255, 255, 255,0.07); }
+.bright-8 { background: rgba(255, 255, 255,0.08); }
+.bright-9 { background: rgba(255, 255, 255,0.09); }
+.bright-10 { background: rgba(255, 255, 255, 0.10); }
+.bright-20 { background: rgba(255, 255, 255, 0.20); }
+.bright-30 { background: rgba(255, 255, 255, 0.30); }
+.bright-40 { background: rgba(255, 255, 255, 0.40); }
+.bright-50 { background: rgba(255, 255, 255, 0.50); }
+.bright-60 { background: rgba(255, 255, 255, 0.60); }
+.bright-70 { background: rgba(255, 255, 255, 0.70); }
+.bright-80 { background: rgba(255, 255, 255, 0.80); }
+.bright-90 { background: rgba(255, 255, 255, 0.90); }
+.bright-100 { background: rgba(255, 255, 255, 0.100); }
+
+.blur { backdrop-filter: blur(10px); }
+
+.bg-clip-text { background-clip: text; }
+.bg-clip-text { -webkit-background-clip: text; }
+.bg-clip-border { -webkit-background-clip: border-box; }
+.bg-contain{ background-size: contain; }
+.bg-cover{ background-size: cover; }
+.bg-center{ background-position: center; }
+.bg-top{ background-position: top; }
+.bg-bottom{ background-position: bottom; }
+.bg-left{ background-position: left; }
+.bg-right{ background-position: right; }
+
+.bg-blue-red { background: linear-gradient(90deg, blue, red); }
+.bg-trans-black { background: linear-gradient(to bottom, transparent, black); }
+.bg-trans-white { background: linear-gradient(to bottom, transparent, white, white, white); }
+.bg-grad { background: linear-gradient(90deg, darkorange, orange, gold); }
+.bg-111111 { background: #111111; }
+.bg-151527 { background: #151527; }
+.bg-blackblue { background: #000031; }
