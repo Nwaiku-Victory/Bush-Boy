@@ -1,6 +1,6 @@
 <div class="w-full h-full ff-arial flow-hidden flowy-scroll bg-black cl-white scroll-smooth">
     <header class="w-full p-10px px-20px flex jc-sp-ev ai-center pos-sticky top-0 zi-1 blur">
-        <div class="flex flex-row gap-10 ai-center cl-white"> <img src="farm/IMG-20260325-WA0036.jpg" alt="logo" class="w-50px h-50px borr-40px"> <h2>IFCAFINCF FARMS</h2> </div>
+        <div class="flex flex-row gap-10 ai-center cl-white"> <img src="farm/IMG-20260325-WA0036.jpg" alt="logo" class="w-50px h-50px borr-40px"> <h2>IFCAFINCFARMS</h2> </div>
         <div class="none full-block lg-block">
             <a id="menuItem" href="#home" class="text-capital td-none cl-white hover-cl-yellow fnt-w-bolder fnt-s-17px mx-10px">home</a>
             <a id="menuItem" href="#about" class="text-capital td-none cl-white hover-cl-yellow fnt-w-bolder fnt-s-17px mx-10px">about us</a>
