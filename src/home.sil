@@ -46,7 +46,7 @@
                 <img src="farm/farm2.jpg" alt="" class="h-full">
                 <div class="w-full h-full pos-absolute faded-40 flex jc-left ai-f-end py-25px">
                     <div class="w-full flex flex-col gap-5 p-15px px-30px">
-                        <strong class="cl-lightgrey">usifj</strong>
+                        <strong class="cl-lightgrey">Fruits</strong>
                         <h2 class="text-capital">high quality produce</h2>
                     </div>
                 </div>
@@ -55,7 +55,7 @@
                 <img src="farm/farm4.jpg" alt="" class="h-full">
                 <div class="w-full h-full pos-absolute faded-40 flex jc-left ai-f-end py-25px">
                     <div class="w-full flex flex-col gap-5 p-15px px-30px">
-                        <strong class="cl-lightgrey">usifj</strong>
+                        <strong class="cl-lightgrey">grains</strong>
                         <h2 class="text-capital">mass production</h2>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                 <img src="farm/farm5.jpg" alt="" class="h-full">
                 <div class="w-full h-full pos-absolute faded-40 flex jc-left ai-f-end py-25px">
                     <div class="w-full flex flex-col gap-5 p-15px px-30px">
-                        <strong class="cl-lightgrey">usifj</strong>
+                        <strong class="cl-lightgrey">control</strong>
                         <h2 class="text-capital">pests and diseases control</h2>
                     </div>
                 </div>
