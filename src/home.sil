@@ -22,7 +22,7 @@
             <div class="w-900-full flex flex-col gap-20 ai-f-start p-20px">
                 <b class="cl-gold">This is how</b>
                 <h1 class="w-500-full fnt-s-70px text-capital">we farm with fun</h1>
-                <p class="w-500-full fnt-s-17px cl-grey">we produce your regular and favourite nutritious farm products, to give you a healthy meal </p>
+                <p class="w-500-full fnt-s-17px cl-grey">BushBoy produce your regular and favourite nutritious farm products, to give you a healthy meal </p>
                 <button class="p-15px px-25px borr-5px bg-goldenrod cl-black fnt-w-bolder text-upper bor-2px bor-goldenrod hover-none hover-cl-white transition-0-5s">read more</button>
             </div>
         </div>
