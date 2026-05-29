@@ -32,7 +32,7 @@
     <div id="about" class="w-full min-h-full flex jc-center ai-center gap-75 wrap p-20px">
         <img src="farm/IMG-20260325-WA0037.jpg" alt="" class="w-400-full borr-10px">
         <div class="w-500-full flex flex-col gap-30 ai-f-start p-15px">
-            <h1 class="fnt-s-50px">Have you enjoyed your form produce</h1>
+            <h1 class="fnt-s-50px">Have you enjoyed your farm produce</h1>
             <p class="fnt-s-15px cl-grey">Soil and plating basics: soil test, organic vs inorganic fertilizer, spacing, irrigation options (drip, sprinkler, rain-fed)</p>
             <button class="p-15px px-25px borr-5px bg-goldenrod cl-black fnt-w-bolder text-upper bor-2px bor-goldenrod hover-none hover-cl-white transition-0-5s">read more</button>
         </div>
